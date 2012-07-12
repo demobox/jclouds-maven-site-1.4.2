@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2012-07-12T19:36:41.818">
+<file name="/scratch/hudson/workspace/jclouds-maven-site-1.4.2/providers/hpcloud-objectstorage-lvs/src/main/java/org/jclouds/hpcloud/objectstorage/lvs/HPCloudObjectStorageLasVegasAsyncClient.java">
+<violation beginline="47" endline="47" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.hpcloud.objectstorage.lvs" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.openstack.swift.Storage'
+</violation>
+</file>
+</pmd>
