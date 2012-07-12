@@ -1,0 +1,5 @@
+org.jclouds.openstack.nova.v1_1
+org.jclouds.openstack.nova.v1_1.config
+org.jclouds.openstack.nova.v1_1.domain
+org.jclouds.openstack.nova.v1_1.features
+org.jclouds.openstack.nova.v1_1.handlers
